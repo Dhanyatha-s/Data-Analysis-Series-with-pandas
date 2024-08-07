@@ -14,4 +14,4 @@
 ## Table of Contents
 | Projects Name | Report | Links
 |--------------|----|------|
-| 1. Sales and Customer Behaviour Analysis | Report link is here. | link  |
+| 1. Sales and Customer Behaviour Analysis | Report link is here. | [link](https://github.com/Dhanyatha-s/Sales-and-Customer-Behavior-Analysis.git)  |
